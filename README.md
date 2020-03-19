@@ -91,6 +91,18 @@ _Issues:_ -
 * Cost: -
 * Link: https://mattermost.com/
 
+
+**Microsoft Teams**
+
+_Info:_ Microsoft Teams is another collaboration tools including a bunch of features similar to Slack and Mattermost such as chats, calls etc. This tool is being used in some research groups.
+
+_Issues:_ Laggy during the first few days of transition to online teaching. Apparently stable now.
+
+* Suitability: High?
+* Cost: Not sure (some educational institutes might have licences for corporate tier)
+* Link: https://products.office.com/en-us/microsoft-teams/group-chat-software
+
+
 ## Cloud Storage
 **Overleaf**
 
