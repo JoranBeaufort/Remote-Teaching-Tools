@@ -4,6 +4,8 @@
 
 The sudden closing of schools and universities calls for extra efforts from all people involved with teaching. We face the challenge of juggling the build up of required infrastructure online along with trying to maintain a somewhat structured curriculum for our pupils and students. This task can be daunting, especially for persons with less experience with online collaboration tools. 
 
+_ratings are my personal opinion or the opinion of multiple people I have spoken with_
+
 **Here I present a list of tools and infrastructure which hopefully help in this transition to remote teaching.**
 
 ## Forums / Discussion Boards
@@ -79,4 +81,84 @@ _Issues:_ -
 * Cost: -
 * Link: https://mattermost.com/
 
+## Online Collaboration on Documents
+**Overleaf**
 
+_Info:_ Latex co-working platform. Very powerful and many features. Very good for collaborating on writing.
+
+_Issues:_ Complicated to get used to without latex experience
+
+* Suitability: High 
+* Cost: Free; 15$/month
+* Link: https://www.overleaf.com/
+
+**Google Docs**
+
+_Info:_ Documents saved in google drive. Can be shared and worked on at the same time.
+
+_Issues:_ Needs good internet connection
+
+* Suitability: Medium/High
+* Cost: Free
+* Link: https://docs.google.com/
+
+**Office Onedrive**
+
+_Info:_ Offices documents saved on onedrive can be opened in browser office and multiple people can work on docs.
+
+_Issues:_ Some sync issues
+
+* Suitability: Medium
+* Cost: ?
+* Link: https://products.office.com/en-us/onedrive/online-cloud-storage
+
+## Cloud Storage
+**Sync**
+
+_Info:_ Very good, stable and secure cloud storage. Encrypts documents to ensure privacy regulations!
+
+_Issues:_ Since documents are encrypted on server, not always possible to open in browser
+
+* Suitability: Very High
+* Cost: - 
+* Link: https://www.sync.com/
+
+**Dropbox**
+
+_Info:_ Widely used cloud service with state of the art syncing
+
+_Issues:_ Some vulnerabilities
+
+* Suitability: High
+* Cost: -
+* Link:https://www.dropbox.com/
+
+**Google Drive**
+
+_Info:_ Googles cloud storage which integrates very well with other google services (e.g. google docs; gmail).
+
+_Issues:_ Privacy can be an issue...
+
+* Suitability: High
+* Cost: -
+* Link: https://www.google.com/drive/
+
+**OneDrive**
+
+_Info:_ Microsoft cloud which is included in some Office products. Very good online browser based editing of office files.
+
+_Issues:_ Sometimes syncing is very slow
+
+* Suitability: High
+* Cost: - 
+* Link: https://onedrive.live.com/about/de-de/
+
+**Mega**
+
+_Info:_ No experience but apparently strong focus on privacy
+
+_Issues:_ ?
+
+* Suitability: ?
+* Cost: -
+* Link: https://mega.nz/
