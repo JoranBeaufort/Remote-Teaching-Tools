@@ -8,6 +8,16 @@ _ratings are my personal opinion or the opinion of multiple people I have spoken
 
 **Here I present a list of tools and infrastructure which hopefully help in this transition to remote teaching.**
 
+Overview:
+* Forums / Discussion Boards
+* Voice and Video Chats
+* Online Conferencing
+* Online Collaboration and Group Organisation
+* Online Collaboration on Documents
+* Cloud Storage
+
+
+
 ## Forums / Discussion Boards
 **Discourse**
 
@@ -81,7 +91,7 @@ _Issues:_ -
 * Cost: -
 * Link: https://mattermost.com/
 
-## Online Collaboration on Documents
+## Cloud Storage
 **Overleaf**
 
 _Info:_ Latex co-working platform. Very powerful and many features. Very good for collaborating on writing.
