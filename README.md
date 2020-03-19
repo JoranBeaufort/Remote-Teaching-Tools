@@ -1,6 +1,6 @@
 # Remote-Teaching-Tools
 
-### This is a repo where we list different tools for online/remote teaching, feel free to contribute.
+### This is a repo where I list different tools for online/remote teaching, feel free to contribute!
 
 The sudden closing of schools and universities calls for extra efforts from all people involved with teaching. We face the challenge of juggling the build up of required infrastructure online along with trying to maintain a somewhat structured curriculum for our pupils and students. This task can be daunting, especially for persons with less experience with online collaboration tools. 
 
