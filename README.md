@@ -4,9 +4,9 @@
 
 The sudden closing of schools and universities calls for extra efforts from all people involved with teaching. We face the challenge of juggling the build up of required infrastructure online along with trying to maintain a somewhat structured curriculum for our pupils and students. This task can be daunting, especially for persons with less experience with online collaboration tools. 
 
-_ratings are my personal opinion or the opinion of multiple people I have spoken with_
-
 **Here I present a list of tools and infrastructure which hopefully help in this transition to remote teaching.**
+
+_ratings are my personal opinion or the opinion of multiple people I have spoken with_
 
 Overview:
 * Forums / Discussion Boards
