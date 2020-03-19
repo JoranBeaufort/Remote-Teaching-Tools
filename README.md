@@ -62,6 +62,7 @@ _Issues:_ None up to now
 * Link: https://zoom.us/
 
 **Whereby**
+
 _Info:_ Whereby is an online browser based group video chat. This tool is intuitive and you can set up video rooms with links that are permenant so good for meetings with a limited number of people where you have to send a link in advance.
 
 _Issues:_ Some students had difficulties accessing this tool or the Camera or Mic did not work with this tool
