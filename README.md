@@ -6,8 +6,6 @@ The sudden closing of schools and universities calls for extra efforts from all 
 
 **Here I present a list of tools and infrastructure which hopefully help in this transition to remote teaching.**
 
-_ratings are my personal opinion or the opinion of multiple people I have spoken with_
-
 Overview:
 * Forums / Discussion Boards
 * Voice and Video Chats
@@ -15,7 +13,17 @@ Overview:
 * Online Collaboration and Group Organisation
 * Online Collaboration on Documents
 * Cloud Storage
+* Learn Management Systems (LMS)
 
+My personal recommendations _(or step by step guide to a successful transition)_\*:
+1. Sign up for a free **Slack** account. Set up Slack with useful channels (e.g. channels for individual classes or projects). You can make private channels on an invite only basis. Invite your team or reaserch group or other teachers which need to communicate and collaborate. Try to get all involved people to start communicating over Slack so everyone has the same information.
+2. If you only have small groups of people to teach (up to 3 pupils/students) get a free **WhereBy** account and set up a room. If you have bigger classes which are under 40 minutes get a free **Zoom** account. If you have larger classes which are longer than 40 minutes, get a paid **Zoom** subscription for around 15$/m. 
+3. Get a paid **Sync.com** subsciption for around 5$/m. This lets you store files in a secure cloud (privacy regulations) and you can easily use Sync to request files from your students such as homework (https://www.sync.com/help/requesting-files-with-upload-enabled-links/)
+4. Set up a space for students such as **Discourse** where students can ask questions and answer each others questions or chat with each other and so on.
+
+=> If you are feeling courages and very nerdy you can set up **Ilias** which will basically give you functionalities of points 3 and 4 and much more such as online exams and all the nice teaching things. Be warned though, setting up a LMS can take quite a bit of time and nerves!
+
+_*Ratings and are my personal opinion or the opinion of multiple people I have spoken with_
 
 
 ## Forums / Discussion Boards
@@ -185,3 +193,34 @@ _Issues:_ ?
 * Suitability: ?
 * Cost: -
 * Link: https://mega.nz/
+
+## Learn Management Systems (LMS)
+**Ilias**
+
+_Info:_ State of the art open source LMS used by many universities with a huge variety of features!
+
+_Issues:_ Very powerful LMS and therefore not at all trivial to set up. Probably need help from webdesigner/IT to set up and a few days to get used to if you have some IT skills. Once set up very intuitive LMS with a plethora of features handy for teaching! Server needed.
+
+* Suitability: Very High
+* Cost: Free (needs server)
+* Link: https://www.ilias.de/
+
+**Moodle**
+
+_Info:_ Very similar to Ilias. Also state of the art open source LMS used by many universities with a huge variety of features! Somewhat more known, but also a bit less intuitive than Ilias.
+
+_Issues:_ Quite powerful LMS and therefore not trivial to set up. IT personel or someone with webdesign knowledge might be needed. Server needed.
+
+* Suitability: High
+* Cost: Free (needs server)
+* Link: https://www.ilias.de/
+
+**On School**
+
+_Info:_ Swiss Moodle LMS provider. Offering free services during Corona. Have not tested this but this was recommended to me.
+
+_Issues:_ No experience to date
+
+* Suitability: -
+* Cost: -
+* Link: https://www.onschool.ch/de/
