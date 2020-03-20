@@ -15,7 +15,7 @@ Overview:
 * Cloud Storage
 * Learn Management Systems (LMS)
 
-My personal recommendations _(or step by step guide to a successful transition)_\*:
+My personal recommendations _(or step by step guide for a successful transition)_\*:
 1. Sign up for a free **Slack** account. Set up Slack with useful channels (e.g. channels for individual classes or projects). You can make private channels on an invite only basis. Invite your team or reaserch group or other teachers which need to communicate and collaborate. Try to get all involved people to start communicating over Slack so everyone has the same information.
 2. If you only have small groups of people to teach (up to 3 pupils/students) get a free **WhereBy** account and set up a room. If you have bigger classes which are under 40 minutes get a free **Zoom** account. If you have larger classes which are longer than 40 minutes, get a paid **Zoom** subscription for around 15$/m. 
 3. Get a paid **Sync.com** subsciption for around 5$/m. This lets you store files in a secure cloud (privacy regulations) and you can easily use Sync to request files from your students such as homework (https://www.sync.com/help/requesting-files-with-upload-enabled-links/)
