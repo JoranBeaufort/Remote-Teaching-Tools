@@ -21,7 +21,7 @@ My personal recommendations _(or step by step guide for a successful transition)
 3. Get a paid **Sync.com** subsciption for around 5$/m. This lets you store files in a secure cloud (privacy regulations) and you can easily use Sync to request files from your students such as homework (https://www.sync.com/help/requesting-files-with-upload-enabled-links/)
 4. Set up a space for students such as **Discourse** where students can ask questions and answer each others questions or chat with each other and so on.
 
-=> If you are feeling courages and very nerdy you can set up **Ilias** which will basically give you functionalities of points 3 and 4 and much more such as online exams and all the nice teaching things. Be warned though, setting up a LMS can take quite a bit of time and nerves!
+=> If you are feeling courageous and very nerdy you can set up **Ilias** which will basically give you functionalities of points 3 and 4 and much more such as online exams and all the nice teaching things. Be warned though, setting up a LMS can take quite a bit of time and nerves!
 
 _*Ratings and are my personal opinion or the opinion of multiple people I have spoken with_
 
