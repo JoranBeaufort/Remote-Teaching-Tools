@@ -100,6 +100,15 @@ _Issues:_ -
 * Cost: -
 * Link: https://mattermost.com/
 
+**Keybase**
+
+_Info:_ Encrypted messaging and file sharing for everyone with privacy concerns. Based on Blockchain technology.
+
+_Issues:_ Have not personally tested this
+
+* Suitability: Medium / High
+* Cost: free
+* Link: https://keybase.io/
 
 **Microsoft Teams**
 
